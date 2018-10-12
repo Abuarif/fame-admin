@@ -1,0 +1,8 @@
+{
+  "name": "FameAdmin",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "1d3b8368"
+}
